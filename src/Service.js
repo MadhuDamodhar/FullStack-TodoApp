@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // Define your base URL directly in the code
-const BASE_URL = "http://3.110.221.199:9099";
+const BASE_URL = "https://3.110.221.199:9099";
 
 class Service {
   getTodos() {
